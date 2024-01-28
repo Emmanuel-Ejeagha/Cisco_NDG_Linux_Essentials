@@ -1,0 +1,4 @@
+The which command searches for the location of a command by searching the PATH variable
+
+
+which ls 

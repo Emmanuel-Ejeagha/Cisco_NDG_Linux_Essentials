@@ -1,0 +1,4 @@
+Single quotes prevent the shell from interpreting of special characters, includng globs, variables, command substitution and other metacharacters.
+
+
+echo 'The car costs $100'

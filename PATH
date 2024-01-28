@@ -1,0 +1,5 @@
+PATH contains a list that defines which directory the shell looks in to find commands.
+A path is a list of directories seperated by the / character.
+
+
+echo $PATH 

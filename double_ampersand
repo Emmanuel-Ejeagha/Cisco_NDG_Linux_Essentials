@@ -1,0 +1,4 @@
+The double ampersand && acts as a logical "and"; if the first command is successful, then the second command will also run. if the command fails, then the second command will not run.
+
+
+cd mkdir Cisco && cd Cisco 

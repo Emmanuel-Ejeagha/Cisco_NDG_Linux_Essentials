@@ -1,0 +1,8 @@
+type command can be used to determine information about command type.
+
+type command
+
+
+using -a option of the type command displays all locations that contain the command named:
+
+type -a echo 

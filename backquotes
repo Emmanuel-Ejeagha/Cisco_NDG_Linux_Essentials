@@ -1,0 +1,4 @@
+Backquotes, or backtics are used to specify a command withing a command, a process called substitution. Ths allows for powerful and sophisticated use of commands.
+
+
+echo Today is `date`   
