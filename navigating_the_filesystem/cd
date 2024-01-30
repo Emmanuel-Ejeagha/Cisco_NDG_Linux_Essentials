@@ -1,0 +1,3 @@
+To navigate the filesystem, use the cd (change directory) command
+
+cd [options] [path] 

@@ -1,0 +1,3 @@
+To determine where the user is currently located within the filesystem, the pwd (print working directory)
+
+pwd [OPTIONS] 
