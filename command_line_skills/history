@@ -1,1 +1,7 @@
-history is a command used to view the history list of commands executed in terminal. 
+history is a command used to view the history list of commands executed in terminal.
+
+history N
+
+!N
+
+!!   --to rerun your last command 
