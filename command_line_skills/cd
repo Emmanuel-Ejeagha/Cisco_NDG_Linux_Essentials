@@ -1,0 +1,5 @@
+The cd command is used to change a directory
+
+cd name_of_the_directory
+
+cd --change directory  
