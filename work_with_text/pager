@@ -1,0 +1,13 @@
+The pager command is used to view the contents, to display one page of data at a time, it allows you to move forward and backward in the file by using movement keys.
+
+
+less  command
+
+more  command
+
+Key		Movement
+Spacebar	Window forward
+B		Window backward
+Enter		Line forward
+Q		Exit
+H		Help	

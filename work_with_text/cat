@@ -1,0 +1,9 @@
+The cat command, short for concatenate, is a commmand used for creating and displaying text files, as well as combining copies of text files.
+
+
+cd Documents
+cat main.txt
+
+
+
+cat ~/.ssh/id_rsa.pub
