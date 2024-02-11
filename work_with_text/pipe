@@ -1,0 +1,10 @@
+The pipe | is used to send the output of one command to another.
+
+ls /var/www | nl
+
+The nl command is used to number the lines of the preceding ls command.
+
+
+ls /var | tail -5 | nl
+
+ls /var | nl | tail -5
