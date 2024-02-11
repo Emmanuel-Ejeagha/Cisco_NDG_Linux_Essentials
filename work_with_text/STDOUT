@@ -1,0 +1,10 @@
+Standard output or STDOUT is displayed in the terminal window where the command is executing.
+
+
+echo "Hello World!"
+Hello World!
+
+
+echo "Hello World" > hello_world
+
+Using > character, the output can be redirected to a file instead.
