@@ -1,0 +1,3 @@
+ls /file /etc/ppp &> all.txt
+
+Both STDOUT and STDERR can be sent to a file by using the ampersand & character in front of the arrow > character. 
