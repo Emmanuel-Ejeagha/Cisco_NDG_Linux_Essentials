@@ -1,0 +1,5 @@
+The wc command provides the number of lines, words and bytes (1 byte = 1 character in a text file) for a file, and a total line count if more than one file is specified.
+
+wc ~/.ssh
+
+ls ~/.ssh | wc -l
