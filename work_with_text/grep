@@ -1,0 +1,11 @@
+The grep command can be used to filter lines in a file or the output of anotherr command that matches a specified pattern.
+
+grep pub ~/.ssh
+
+to highlight the search result use --color option
+
+grep --color pub ~/.ssh
+
+
+
+
