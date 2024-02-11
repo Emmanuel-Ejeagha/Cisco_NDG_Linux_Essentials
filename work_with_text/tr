@@ -1,0 +1,13 @@
+The tr command takes STDIN from the keyboard and converts it to either lowercase or uppercase
+
+
+tr 'a-z' 'A_Z'
+how are you doing today?
+HOW ARE YOU DOING TODAY?
+
+
+tr 'a-z' 'A-Z' < text.txt
+
+
+tr 'a-z' 'A-Z' < text.txt > new-file.txt
+
