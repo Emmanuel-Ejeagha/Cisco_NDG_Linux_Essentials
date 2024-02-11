@@ -1,0 +1,4 @@
+The cut command can extract colums of text from a file or standard input. It is mostly used for working with delimited database files.
+
+
+ls -l | cut -c1-11,50-
