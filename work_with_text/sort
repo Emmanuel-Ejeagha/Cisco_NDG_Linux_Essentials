@@ -1,0 +1,3 @@
+The sort command can be used to rearrange the lines of files or input in either dictionary or numeric order.
+
+sort [file]
