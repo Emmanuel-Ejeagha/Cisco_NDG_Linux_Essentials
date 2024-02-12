@@ -1,0 +1,26 @@
+Characters | Matches
+___________ --------------------------------
+- .        | Any single character.          |
+----------- ---------------------------------
+- *	   | The previous character repeated|
+           | zero or more times.            |
+----------- ---------------------------------
+- [ ]      | A list or range of characters  |
+           | to match one character	    |
+	   | If the first character within  |
+	   | the brackets is the caret ^, it|
+	   | means any character not in the |
+	   | list			    |
+----------- ---------------------------------
+- ^        | If the first character in the  |
+	   | pattern, the pattern must be at|
+	   | the beginning of the line to   |
+	   | match, otherwise just a literal|
+	   | ^ character		    |
+----------- ---------------------------------
+- $	   | If the last character in the   |
+	   | pattern, the pattern must be at|
+           | the end of the line to match,  |
+	   | otherwise just a literal $	    |
+   	   | character			    |
+----------- ---------------------------------
