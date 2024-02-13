@@ -1,0 +1,19 @@
+#!/bin/bash
+chmod +x variables
+COUNTRY="USA"
+echo -e "\nMy name is EmmyTech."
+echo -e "I am a citizen of $COUNTRY.\n"
+
+
+# MY_COUNTRY=$COUNTRY
+# echo -e "Peter is not from $MY_COUNTRY\n"
+
+
+echo "What is your name?  "
+read NAME
+
+echo "What is the name of your country?  "
+read COUNTRY
+
+echo -e "Hello, $NAME. You are a citizen of $COUNTRY."
+echo -e "It's nice to meet you, $NAME.\n"
