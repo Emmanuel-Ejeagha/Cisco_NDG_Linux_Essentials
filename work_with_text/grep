@@ -6,6 +6,12 @@ to highlight the search result use --color option
 
 grep --color pub ~/.ssh
 
+grep 'ro.t' test.txt
+
+grep 'r..t' test.txt
+
+grep '....' text.txt
+
 
 
 
