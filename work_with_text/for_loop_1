@@ -1,0 +1,5 @@
+#!/bin/bash
+
+for S in *; do
+	echo "This is $S, there is a script in it."
+done
