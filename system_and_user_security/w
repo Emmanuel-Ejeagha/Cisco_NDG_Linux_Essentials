@@ -1,0 +1,4 @@
+There may be instances where more information about users, and what they are doing on the system, is needed. The w command provides a more detailed list about the users currently on the system than the who command.
+
+
+w
