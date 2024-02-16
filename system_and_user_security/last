@@ -1,0 +1,3 @@
+The last command reads the entire login history from the /var/log/wtmp file and displays all logins and reboot records by default. 
+
+last
