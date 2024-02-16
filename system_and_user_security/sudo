@@ -1,0 +1,5 @@
+The sudo command allows users to execute commands as another user. Similar to the su command, the root user is assumed by default.
+
+sudo [options] command
+
+sudo head /etc/shadow
