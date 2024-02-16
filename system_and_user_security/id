@@ -1,0 +1,3 @@
+ The id command is used to print user and group information for a specified user.
+
+id [options] username
