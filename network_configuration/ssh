@@ -1,0 +1,4 @@
+The ssh command allows you to connect to another machine across the network, log in and then perform tasks on the remote machine.
+
+
+ssh username@hostname
