@@ -1,0 +1,4 @@
+the host command works with DNS to associate a hostname with an IP address.
+
+
+host example.com
