@@ -1,0 +1,6 @@
+The ping command can be used to determine if another machine is reachable. If the ping command can send a network package to another machine and receive a response, then you should be able to connect to that machine.
+
+
+ping
+
+ping -c 4 [ip address]

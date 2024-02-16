@@ -1,0 +1,8 @@
+The netstat command is a powerful tool that provides a large amount of network information
+
+netstat -i
+
+
+netstat -r
+
+netstat -tln
