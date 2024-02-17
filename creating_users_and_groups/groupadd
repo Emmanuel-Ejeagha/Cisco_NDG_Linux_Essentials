@@ -1,0 +1,5 @@
+The groupadd command can be executed by the root user to create a new group.
+
+groupadd -g 1001 design
+
+-g option is used to add id to the group
