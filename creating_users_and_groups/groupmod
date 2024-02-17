@@ -1,0 +1,4 @@
+The groupmod command can be used to either change the name of a group with the -n option or change the GID for the group with the -g option.
+
+
+groupmod -n [old name] [new name]
