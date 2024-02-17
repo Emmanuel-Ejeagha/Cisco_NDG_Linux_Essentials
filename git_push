@@ -11,9 +11,9 @@ read MESSAGE
 
 git commit -m "$MESSAGE"
 
-echo -e "****Ready to push to GitHub****\n"
+echo -e "\n	****Ready to push to GitHub****\n"
 
 git push
 
 
-echo -e "\n****DONE!****\n"
+echo -e "\n	****DONE!****\n"
