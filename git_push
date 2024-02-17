@@ -1,9 +1,9 @@
 #!/usr/bin/bash
 
-echo -e "	****Running a git pull\n****"
+echo -e "	****Running git pull****\n"
 git pull
 
-echo -e "What file do you want to add to github?\n  "
+echo -e "\nWhat file do you want to add to github?\n  "
 read FILE
 
 git add $FILE
