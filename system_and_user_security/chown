@@ -1,0 +1,7 @@
+The chown command allows the root user to change the ownership of files and directories
+
+chown [owner] [file]
+
+chown [owner]:[group] [file]
+
+chown :[group] [file]
