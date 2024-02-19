@@ -1,0 +1,20 @@
+The setuid permission is set on an executable binary file (a program) the binary file is run as the owner of the file, not as the user who executed it. 
+
+
+example:
+ls -l /usr/bin/passwd
+-rwsr-xr-x 1 root root 68208 Feb  6 12:49 /usr/bin/passwd
+
+To add the setuid permission symbolically, run:
+chmod u+s file
+
+
+To add the setuid permission numerically, add 4000 to the file's existing permissions
+chmod u+s file
+
+To remove the setuid permission numerically:
+chmod 0775 file
+
+
+To remove the setuid permission symbolically:
+chmod u-s file

@@ -1,0 +1,3 @@
+A symbolic link, also called soft link, is a file that points to another file.
+
+ln -s target link_name
