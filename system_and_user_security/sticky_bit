@@ -9,3 +9,4 @@ chmod o+t <directory>
 
 To set sticky bit permission numerically add 1000:
 chmod 1775 <directory>
+
