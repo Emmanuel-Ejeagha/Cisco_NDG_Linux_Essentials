@@ -16,3 +16,4 @@ chmod g+s [dir name]
 
 To remove setgid permission symbollically:
 chmod g-s [dir name]
+
