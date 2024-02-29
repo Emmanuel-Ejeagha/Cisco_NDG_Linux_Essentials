@@ -1,0 +1,4 @@
+The stat command is used to view thoroughly the file permissions, it shows both the symbolic and numeric methods
+
+
+stat [file]

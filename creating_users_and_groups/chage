@@ -1,0 +1,3 @@
+The chage command provides many options for managing the password aging information found in /etc/shadow file
+
+chage [option] [username]

@@ -1,0 +1,12 @@
+The sticky bit permission is used to prevent otherrs from deleting files that they do not own in shared permission.
+
+ls -ld /tmp
+drwxrwxrwt 12 root root 4096 Feb 19 19:05 /tmp
+
+To set the sticky bit permission symbollically, execute a command like the following:
+
+chmod o+t <directory>
+
+To set sticky bit permission numerically add 1000:
+chmod 1775 <directory>
+

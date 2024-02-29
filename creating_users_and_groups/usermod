@@ -1,0 +1,3 @@
+The usermod command is used to modify an existing useer
+
+usermod [option] [username]

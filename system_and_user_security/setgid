@@ -1,0 +1,19 @@
+# The setgid permission on a file is very similar to setuid; it allows a user to run an executable binary file in a manner that provides them additional (temporary) group access.
+
+ls -l /usr/bin/wall
+-rwxr-sr-x 1 root tty 35048 May 30  2023 /usr/bin/wall
+
+To add setgid permission numerically add 2000;
+chmod 2770 [dir name]
+
+To remove setgid permission numerically:
+chmod 0770 [dir name]
+
+
+To set setgid permission symbolically add 2000;
+chmod g+s [dir name]
+
+
+To remove setgid permission symbollically:
+chmod g-s [dir name]
+
